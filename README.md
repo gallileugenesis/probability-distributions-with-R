@@ -98,7 +98,7 @@ par(mfrow=c(1, 1))
 
 
     
-![png](output_2_0.png)
+![png](Figures/output_2_0.png)
     
 
 
