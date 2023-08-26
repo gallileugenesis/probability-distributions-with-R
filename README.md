@@ -1,6 +1,15 @@
-# Distribuição Uniforme
+# Distribuições de Probabilidades (em desenvolvimento)
 
 **Prof. Gallileu Genesis**
+
+Em estatísticas e teoria das probabilidades, as distribuições de probabilidade descrevem como os eventos ou valores aleatórios estão dispersos ou distribuídos. Elas são usadas para modelar incertezas e variabilidades em diversos contextos, como em experimentos científicos, previsões financeiras, análise de dados, entre outros.
+
+As distribuições de probabilidade mais comuns são:
+
+1. **Distribuição Uniforme** 
+
+
+Nesse tutorial mostraremos como explorar todas essas distribuições usando R.
 
 ### 1. Distribuição Uniforme 
 
