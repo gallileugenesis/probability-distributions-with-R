@@ -1,4 +1,4 @@
-## Distribuições de Probabilidades (em desenvolvimento)
+# Distribuições de Probabilidades (em desenvolvimento)
 
 **Prof. Gallileu Genesis**
 
@@ -141,7 +141,7 @@ cat("Variância:", variance, "\n")
 
 
     
-![png](output_4_1.png)
+![png](Figures/output_4_1.png)
     
 
 
@@ -180,7 +180,7 @@ cat("Variância:", variance, "\n")
 
 
     
-![png](output_6_1.png)
+![png](Figures/output_6_1.png)
     
 
 
