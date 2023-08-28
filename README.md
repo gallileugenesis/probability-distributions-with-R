@@ -18,14 +18,14 @@ A Distribuição Uniforme é uma das distribuições de probabilidade mais simpl
 Pode ser usada para modelar tanto variáveis discreta quanto variáveis continuas e é frequentemente representada graficamente como um retângulo, onde a altura do retângulo representa a probabilidade e a largura representa a amplitude do intervalo.
 
 #### 1.1 Distribuição Uniforme Discreta
-A distribuição uniforme discreta é usada quando temos um número finito de valores possíveis, e cada um deles tem a mesma probabilidade. Matematicamente, para uma distribuição uniforme discreta com valores no conjunto {$x_1$, x_2, ..., x_n$}, a função de probabilidade é definida da seguinte maneira:
+A distribuição uniforme discreta é usada quando temos um número finito de valores possíveis, e cada um deles tem a mesma probabilidade. Matematicamente, para uma distribuição uniforme discreta com valores no conjunto {x_1, x_2, ..., x_n}, a função de probabilidade é definida da seguinte maneira:
 
 
 $P(X = x_i) = \dfrac{1}{n}$ ,   para $i = 1, 2, ..., n$
 
 Onde:
 
-- $P(X = x_i)$ é a probabilidade de a variável aleatória $$X$$ assumir o valor $x_i$.
+- $P(X = x_i)$ é a probabilidade de a variável aleatória $X$ assumir o valor $x_i$.
   
 - $n$ é o número total de valores possíveis, ou seja, o tamanho do conjunto de valores {$x_1, x_2, ..., x_n$}.
 
