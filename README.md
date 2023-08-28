@@ -51,10 +51,10 @@ $$f(x) = \begin{cases}
 
 
 Onde:
-- $$a$$ e $$b$$ são os limites inferior e superior do intervalo, respectivamente.
-- $$x$$ é uma variável aleatória dentro desse intervalo.
+- $a$ e $b$ são os limites inferior e superior do intervalo, respectivamente.
+- $x$ é uma variável aleatória dentro desse intervalo.
 
-A integral da função de densidade de probabilidade ao longo do intervalo $$[a, b]$$ é igual a 1, o que significa que a área sob a curva da distribuição uniforme é sempre igual a 1. Isso reflete o fato de que a probabilidade total de todos os eventos possíveis deve ser igual a 1.
+A integral da função de densidade de probabilidade ao longo do intervalo $[a, b]$ é igual a 1, o que significa que a área sob a curva da distribuição uniforme é sempre igual a 1. Isso reflete o fato de que a probabilidade total de todos os eventos possíveis deve ser igual a 1.
 
 Além disso, a média (valor esperado) e a variância de uma distribuição uniforme no intervalo $$[a, b]$$ podem ser calculadas da seguinte forma:
 
