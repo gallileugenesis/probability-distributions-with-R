@@ -58,8 +58,8 @@ A integral da função de densidade de probabilidade ao longo do intervalo $$[a,
 
 Além disso, a média (valor esperado) e a variância de uma distribuição uniforme no intervalo $$[a, b]$$ podem ser calculadas da seguinte forma:
 
-- Média: $$\mu = \dfrac{a + b}{2}$$  
-- Variância:  $$\sigma^2 = \dfrac{(b - a)^2}{12}$$
+- Média: $\mu = \dfrac{a + b}{2}$  
+- Variância:  $\sigma^2 = \dfrac{(b - a)^2}{12}$
 
 Um exemplo é a escolha de um número aleatório entre 0 e 1. Nesse caso, qualquer número dentro desse intervalo tem a mesma probabilidade de ser escolhido, e a probabilidade é distribuída uniformemente ao longo desse intervalo (Figura da direita, abaixo).
 
