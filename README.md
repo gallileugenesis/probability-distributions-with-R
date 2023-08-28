@@ -27,15 +27,15 @@ Onde:
 
 - $P(X = x_i)$ é a probabilidade de a variável aleatória $$X$$ assumir o valor $x_i$.
   
-- $$n$$ é o número total de valores possíveis, ou seja, o tamanho do conjunto de valores {$$x_1, x_2, ..., x_n$$}.
+- $n$ é o número total de valores possíveis, ou seja, o tamanho do conjunto de valores {$x_1, x_2, ..., x_n$}.
 
 A média (valor esperado) de uma distribuição uniforme discreta é calculada da seguinte forma:
 
-- Média: $$\mu = \dfrac{(x_1 + x_2 + ... + x_n)}{n} = \dfrac{1}{n}  \sum_{i=1}^{n} x_i$$ 
+- Média: $\mu = \dfrac{(x_1 + x_2 + ... + x_n)}{n} = \dfrac{1}{n}  \sum_{i=1}^{n} x_i$ 
 
 A variância de uma distribuição uniforme discreta é calculada como:
 
-- Variância: $$\sigma^2 = \dfrac{(x_1 - \mu)^2 + (x_2 - \mu)^2 + ... + (x_n - \mu)^2}{n} =  \dfrac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2$$
+- Variância: $\sigma^2 = \dfrac{(x_1 - \mu)^2 + (x_2 - \mu)^2 + ... + (x_n - \mu)^2}{n} =  \dfrac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2$
 
 
 Um exemplo clássico é o lançamento de um dado justo de seis faces. Cada número de 1 a 6 tem uma probabilidade de 1/6 de ser lançado (Figura da esquerda, abaixo).
