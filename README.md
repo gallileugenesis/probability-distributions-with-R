@@ -25,7 +25,7 @@ $P(X = x_i) = \dfrac{1}{n}$ ,   para $i = 1, 2, ..., n$
 
 Onde:
 
-- $$P(X = x_i)$$ é a probabilidade de a variável aleatória $$X$$ assumir o valor $$x_i$$.
+- $P(X = x_i)$ é a probabilidade de a variável aleatória $$X$$ assumir o valor $x_i$.
   
 - $$n$$ é o número total de valores possíveis, ou seja, o tamanho do conjunto de valores {$$x_1, x_2, ..., x_n$$}.
 
