@@ -31,7 +31,7 @@ Onde:
 
 A média (valor esperado) de uma distribuição uniforme discreta é calculada da seguinte forma:
 
-- Média: $\mu = \dfrac{(x_1 + x_2 + ... + x_n)}{n} = \dfrac{1}{n}  \sum_{i=1}^{n} x_i$ 
+- Média: $\mu$ = $\dfrac{(x_1 + x_2 + ... + x_n)}{n}$ = $\dfrac{1}{n}  \sum_{i=1}^{n} x_i$ 
 
 A variância de uma distribuição uniforme discreta é calculada como:
 
